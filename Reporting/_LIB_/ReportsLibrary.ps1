@@ -46,7 +46,7 @@
                </ul>
             </div>
             <div class='sr-image'>
-                <img src='./logo.svg'/>
+                <img src='./sr-logo.svg'/>
             </div>
         </div>"
         $SRXEnv.ResultMessage = $Result
